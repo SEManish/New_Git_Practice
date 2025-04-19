@@ -6,3 +6,4 @@ class A1{
     System.out.println(k+1);
 
 }
+
