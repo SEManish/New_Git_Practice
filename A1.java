@@ -5,6 +5,7 @@ class A1{
     System.out.println(k);
 
     system.out.println("Manish");
+    int l=2;
 }
     
 }
